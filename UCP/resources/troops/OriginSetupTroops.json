@@ -1,0 +1,568 @@
+{
+	"1": {
+		"Name": "Rat",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"2": {
+		"Name": "Snake",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"3": {
+		"Name": "Pig",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"4": {
+		"Name": "Wolf",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"5": {
+		"Name": "Saladin",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"6": {
+		"Name": "Caliph",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"7": {
+		"Name": "Sultan",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"8": {
+		"Name": "Richard",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"9": {
+		"Name": "Frederick",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"10": {
+		"Name": "Phillip",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"11": {
+		"Name": "Wazir",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"12": {
+		"Name": "Emir",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"13": {
+		"Name": "Nizar",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"14": {
+		"Name": "Sheriff",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"15": {
+		"Name": "Marshal",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"16": {
+		"Name": "Abbot",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"DotCount": 0,
+			"DotColour": "Blue",
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"crusader": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		},
+		"deathmatch": {
+			"Units": [
+				
+			],
+			"Counts": [
+				
+			]
+		}
+	},
+	"17": {
+		"Name": "PlayerEurop",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"Type": "Europ"
+		},
+		"normal": {
+			"Units": [],
+			"Counts": []
+		},
+		"crusader": {
+			"Units": [],
+			"Counts": []
+		},
+		"deathmatch": {
+			"Units": [],
+			"Counts": []
+		}
+	},
+	"18": {
+		"Name": "PlayerArab",
+		"Lord": {
+			"StrengthMultiplier": 1,
+			"Type": "Arab"
+		},
+		"normal": {
+			"Units": [],
+			"Counts": []
+		},
+		"crusader": {
+			"Units": [],
+			"Counts": []
+		},
+		"deathmatch": {
+			"Units": [],
+			"Counts": []
+		}
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"normal": {
+		"gold": {
+			"human": [0, 0, 0, 0, 0],
+			"ai": [0, 1000, 2000, 4000, 8000]
+		},
+		"wood": 100,
+		"hop": 0,
+		"stone": 0,
+		"iron": 0,
+		"pitch": 0,
+		"wheat": 0,
+		"bread": 100,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 0,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	},
+	"crusader": {
+		"gold": {
+			"human": [0, 0, 0, 0, 0],
+			"ai": [0, 0, 0, 0, 0]
+		},
+		"wood": 100,
+		"hop": 0,
+		"stone": 0,
+		"iron": 0,
+		"pitch": 0,
+		"wheat": 0,
+		"bread": 100,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 0,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	},
+	"deathmatch": {
+		"gold": {
+			"human": [0, 0, 100000, 0, 0],
+			"ai": [0, 0, 100000, 0, 0]
+		},
+		"wood": 100,
+		"hop": 0,
+		"stone": 0,
+		"iron": 0,
+		"pitch": 0,
+		"wheat": 0,
+		"bread": 100,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 0,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	}
+}
