@@ -101,7 +101,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 
 ## Origin-v1.0
 
-The setup has been renamed from 'AST' (Alternative-Setup-Testing) to Origin
+The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 
 ### Rebalance changes:
 - Woodcutter's hut health down to 125
@@ -125,7 +125,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to Origin
 - From 50 to 0 popularity, the rate at which you lose peasants/workers linearly increases by 10% for every 5 popularity points lost, and is half of the respawn rate
 
 #### Taxation changes
-- There are 12 levels, the first is for bribes which gives you +10 popularity, the second is for "No taxes" which gives you 0 popularity, the next 10 levels are for taxing, which cost you -1 popularity each, going up to -10
+- There are 12 levels, the first is for bribes which give you +10 popularity, the second is for "No taxes" which gives you 0 popularity, the next 10 levels are for taxing, which cost you -1 popularity each, going up to -10
 - The first taxation level no longer gives you 3 times the gold, compared to the rest
 - The only bribe level (+10) costs you exactly as much gold as the highest tax level (-10) gives you
 - Gold income per tax level is otherwise unchanged
@@ -133,7 +133,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to Origin
 #### Religion changes
 - Chapel cost up to 100 gold, 10 stone
 - Church cost up to 200 gold, 20 stone
-- Cathedral cost to 400 gold, 40 stone
+- Cathedral cost up to 400 gold, 40 stone
 - Blessing popularity modifier down to +1 per level, up to +4
 - Percentage of blessed population thresholds down to 20%, 40%, 60%, 80%
 
