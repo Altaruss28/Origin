@@ -111,7 +111,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Halved the health of pikemen, European swordsmen, knights and Arabian swordsmen
 - Pikeman damage to knights and horse archers up to 200dpt
 - Increased European swordsman and Arabian swordsman speed by 1 level
-- Arabian swordsman base damage up to 200dpt, base building damage up to 100
+- Arabian swordsman recruit cost up to 100 gold, base damage up to 200dpt, base building damage up to 100
 - Blacksmith cost up to 10 wood, 5 iron, 5 pitch
 - Armorer cost to 10 wood, 10 stone, 10 iron
 - Stables cost down to 300 gold, 30 wood, 30 stone
