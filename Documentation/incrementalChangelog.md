@@ -106,23 +106,28 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 ### Rebalance changes:
 - Woodcutter's hut health down to 125
 - Ox tether health down to 125
+- Fletcher cost to 10 wood, 100 gold
+- Poleturner cost to 10 wood, 50 gold
+- Tanner cost up to 10 wood, 10 stone, health up to 500
+- Leather armor per delivery up to 3
 
 #### Armored unit/Iron rework
 - Halved the health of pikemen, European swordsmen, knights and Arabian swordsmen
 - Pikeman damage to knights and horse archers up to 200dpt
 - Increased European swordsman and Arabian swordsman speed by 1 level
 - Arabian swordsman recruit cost up to 100 gold, base damage up to 200dpt, base building damage up to 100
+- Iron mine cost up to 30 wood
+- Iron per delivery up to 2
 - Blacksmith cost up to 10 wood, 5 iron, 5 pitch
 - Armorer cost to 10 wood, 10 stone, 10 iron
 - Stables cost down to 300 gold, 30 wood, 30 stone
-- Iron per delivery up to 2
 
 ### Population, popularity, taxation, fear factor and housing rework:
 
 #### Peasant respawn rate
 - Peasant respawn rate at 100 popularity is halved
-- From 100 to 50 popularity the respawn rate linearly decreases by 10% for every 5 popularity points lost
-- From 50 to 0 popularity, the rate at which you lose peasants/workers linearly increases by 10% for every 5 popularity points lost, and is half of the respawn rate
+- From 100 to 50 popularity the respawn rate linearly decreases by 5% for every 5 popularity points lost
+- From 0 to 50 popularity, the rate at which you lose peasants/workers linearly decreases by 10% for every 5 popularity points lost, and starts at half of the max. respawn rate
 
 #### Taxation changes
 - There are 12 levels, the first is for bribes which give you +10 popularity, the second is for "No taxes" which gives you 0 popularity, the next 10 levels are for taxing, which cost you -1 popularity each, going up to -10
