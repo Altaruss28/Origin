@@ -2549,7 +2549,6 @@
     {"description":"Assassin melee damage to buildings.","address":"0x174EF7","size":1,"value":100},
     {"description":"Assassin melee damage to towers and gates offset.","address":"0x174EF4","size":1,"value":157},
     {"description":"Assassin melee damage to walls.","address":"0x174EBA","size":4,"value":2},
-    {"description":"assassin_rally_speed","value":6},
 
     {"description":"Horse archer melee damage to buildings.","address":"0x17B607","size":1,"value":1},
     {"description":"Horse archer melee damage to towers and gates offset.","address":"0x17B604","size":1,"value":0},
@@ -2836,5 +2835,8 @@
     {"description":"Starting tax level.","address":"0x560C2","size":4,"value":1},
 
     {"description":"Minimap unit size.","address":"0xB6FC0","size":1,"value":4}
-    ]
+    ],
+    "special": {
+        "assassin_rally_speed":{"value":6}
+	}
 }
