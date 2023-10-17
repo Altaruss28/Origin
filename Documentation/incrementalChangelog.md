@@ -104,25 +104,41 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 
 ### Rebalance changes:
-- Woodcutter's hut health down to 125
-- Ox tether health down to 125
-- Fletcher cost to 10 wood, 100 gold
-- Poleturner cost to 10 wood, 50 gold
-- Tanner cost up to 10 wood, 10 stone, health up to 500
-- Leather armor per delivery up to 3
 
-#### Armored unit/Iron rework
+#### Building health changes
+- Health of almost all buildings has been adjusted to reflect the following changes, as well as to make raiding slightly easier, see the spreadsheet for the exact numbers
+
+#### Minor melee damage rework
+- Monk base melee damage up to 50dpt
+- Slave base melee damage down to 10dpt
+- Tunneler base melee damage down to 20dpt
+
+#### Weapon economy/armored unit rework
 - Halved the health of pikemen, European swordsmen, knights and Arabian swordsmen
 - Pikeman damage to knights and horse archers up to 200dpt
 - Increased European swordsman and Arabian swordsman speed by 1 level
-- Arabian swordsman recruit cost up to 100 gold, base damage up to 200dpt, base building damage up to 100
-- Iron mine cost up to 30 wood
-- Iron per delivery up to 2
+- Arabian swordsman health up to 30k, base damage up to 200dpt, base building damage up to 100, recruit cost up to 100 gold
+- Iron mine cost up to 30 wood, iron per delivery up to 2
+- Fletcher cost to 10 wood, 100 gold
+- Poleturner cost to 10 wood, 50 gold
+- Tanner cost up to 10 wood, 10 stone, leather armor per delivery up to 3
 - Blacksmith cost up to 10 wood, 5 iron, 5 pitch
 - Armorer cost to 10 wood, 10 stone, 10 iron
 - Stables cost down to 300 gold, 30 wood, 30 stone
 
-### Population, popularity, taxation, fear factor and housing rework:
+#### Ranged unit rework
+- European archer range down to 40 tiles, projectile speed up to 200, base melee damage down to 10dpt
+- Crossbowman range down to 40 tiles, projectile speed up to 200, base melee damage down to 20dpt
+- Arabian archer range down to 40 tiles, projectile speed up to 200, health down to 10k, base melee damage down to 10dpt, recruit cost down to 40 gold
+- Slinger range down to 20 tiles, base melee damage down to 20dpt
+- Horse archer range down to 40 tiles, projectile speed up to 200, base melee damag down to 20dpt
+- Firethrower range down to 10 tiles, projectile speed up to 100, base melee damage up to 50dpt
+- Catapult range down to 40 tiles, projectile speed up to 400, projectile arch type to 0
+- Trebuchet range down to 60 tiles
+- Fireballista range down to 40 tiles, projectile speed up to 400
+- Mangonel range down to 50 tiles
+- Tower ballista range down to 60 tiles, projectile arch type to 2
+- Arrow damage taken of all units has been doubled
 
 #### Peasant respawn rate
 - Peasant respawn rate at 100 popularity is halved
@@ -143,25 +159,25 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Percentage of blessed population thresholds down to 20%, 40%, 60%, 80%
 
 #### Beer/Food changes
-- Hops farm cost up to 20 wood, health up to 500
-- Hops per delivery down to 1
+- Hops farm cost up to 20 wood
 - Inn cost up to 20 wood, 20 stone, population coverage up to 50
 - Beer coverage popularity modifier stays at +1 per level, up to +4
-- Wheat farm cost up to 20 wood, health up to 500
-- Wheat per delivery down to 1
+- Wheat farm cost up to 20 wood
 - Mill cost up to 20 wood, 20 stone
 - No rations popularity modifier to -10, half rations to -5, extra rations to +5, double rations to +10
 - Meat per delivery down to 5, apples per delivery up to 5, cheese per delivery up to 5, bread per delivery up to 10
-- Hunter's post health down to 125
 
 #### Fear factor condenstation
-- All positive fear factor building cost up to 100 gold, health ranging from 125 to 500, the larger the building, the more health
-- All negative fear factor building cost up to 200 gold, health ranging from 125 to 500, the larger the building, the more health
+- All positive fear factor building cost up to 100 gold
+- All negative fear factor building cost up to 200 gold
 - Base fear factor coverage to 64 population (4 times more coverage)
 
 #### Housing condensation
-- Hovel cost up to 20 wood, health up to 500, population per hovel up to 25
+- Hovel cost up to 20 wood, population per hovel up to 25
 - Population per keep up to 25
+
+#### Other
+- Killing pit damage down to 10k, cost down to 10 gold
 
 ### Map changes:
 - Reduced the number of deer groups and iron mine spots on all maps, except the AI ones
