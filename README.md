@@ -26,7 +26,7 @@ Afterwards, open an Extreme lobby and start the game like normal.
 ### After installation
 
 Two shortcuts will be created in the game folder - 
-- "OriginMod - Updater" is used for updating the main setup
+- "OriginMod - Updater" is used for updating the setup
 - "OriginMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
 
 You can also manually install a recommended graphics pack, go to "(Game Folder)/Origin/Graphics", open the "Copy-Paste-Recommended.zip" file, copy/drag all the ".gm1" files to "(Game Folder)/gm".
