@@ -2627,7 +2627,7 @@
     {"description":"Archer, crossbowman and fireballista control range 3.","address":"0x3633A","size":4,"value":1600},
     {"description":"Archer, crossbowman and fireballista control range 4.","address":"0x369B3","size":4,"value":1600},
     {"description":"Archer, crossbowman and fireballista control range 5.","address":"0x36ABA","size":4,"value":1600},
-    {"description":"Archer projectile velocity.","address":"0x1B64FC","size":4,"value":200},
+    {"description":"Archer projectile velocity.","address":"0x1B64FC","size":4,"value":150},
     {"description":"Archer projectile arch type.","address":"0x1B642C","size":4,"value":0},
     {"description":"Crossbowman projectile velocity.","address":"0x1B6514","size":4,"value":200},
     {"description":"Crossbowman projectile arch type.","address":"0x1B6444","size":4,"value":0},

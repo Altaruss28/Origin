@@ -127,11 +127,11 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Stables cost down to 300 gold, 30 wood, 30 stone
 
 #### Ranged unit rework
-- European archer range down to 40 tiles, projectile speed up to 200, base melee damage down to 10dpt
+- European archer range down to 40 tiles, projectile speed up to 150, base melee damage down to 10dpt
 - Crossbowman range down to 40 tiles, projectile speed up to 200, base melee damage down to 20dpt
-- Arabian archer range down to 40 tiles, projectile speed up to 200, health down to 10k, base melee damage down to 10dpt, recruit cost down to 40 gold
+- Arabian archer range down to 40 tiles, projectile speed up to 150, health down to 10k, base melee damage down to 10dpt, recruit cost down to 40 gold
 - Slinger range down to 20 tiles, base melee damage down to 20dpt
-- Horse archer range down to 40 tiles, projectile speed up to 200, base melee damag down to 20dpt
+- Horse archer range down to 40 tiles, projectile speed up to 150, base melee damag down to 20dpt
 - Firethrower range down to 10 tiles, projectile speed up to 100, base melee damage up to 50dpt
 - Catapult range down to 40 tiles, projectile speed up to 400, projectile arch type to 0
 - Trebuchet range down to 60 tiles
