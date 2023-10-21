@@ -18,25 +18,24 @@ You can check your version in the game's main menu, under the exit gate. Make su
 
 Back up your game folder by copying it elsewhere before installing.
 
-Download the [Bootstrap Installer](https://github.com/CIO61/SHCE_Bootstrap_Installer/releases/latest/download/BootstrapInstaller.exe), insert the installer into your game folder and run it. It will automatically download and install everything that's needed.
+Download the [Origing Installer](https://github.com/Altaruss28/Origin/raw/main/OriginInstaller.exe), insert the installer into your game folder and run it. It will automatically download and install everything that's needed.
 
 If you intend on playing multiplayer with the setup through [GameRanger](https://www.gameranger.com/) - select the modified Extreme executable in (lobbyExplorer)/Edit/Options/Games.
 Afterwards, open an Extreme lobby and start the game like normal.
 
 ### After installation
 
-Three shortcuts will be created in the game folder - 
-- "BootstrapMod - Updater" is used for updating the main setup
-- "BootstrapMod - Preview Version" is used for installing and updating the Preview Version setup
-- "BootstrapMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
+Two shortcuts will be created in the game folder - 
+- "OriginMod - Updater" is used for updating the main setup
+- "OriginMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
 
-You can also manually install a recommended graphics pack, go to "(Game Folder)/BootstrapMultiplayerSetup_preview/Graphics", copy all the ".gm1" files to "(Game Folder)/gm".
+You can also manually install a recommended graphics pack, go to "(Game Folder)/Origin/Graphics", open the "Copy-Paste-Recommended.zip" file, copy/drag all the ".gm1" files to "(Game Folder)/gm".
 You should get a prompt asking you whether you want to replace the files - allow that and the graphics set will be installed.
 
 You should consider installing [DDraw Compat](https://github.com/narzoul/DDrawCompat/releases/download/v0.3.1/DDrawCompat-v0.3.1.zip) for better game performance and recording.
 Simply insert the .dll into your game folder, next to the game executable.
 
-If you want to get in touch with the Bootstrap community, join our [Discord server](https://discord.gg/SaAx3RubHF).
+If you want to get in touch with the multiplayer community, join our [Discord server](https://discord.gg/SaAx3RubHF).
 
 ## Changelog
 
