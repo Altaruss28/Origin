@@ -2334,7 +2334,7 @@
             }
         },
         "Arabian swordsman": {
-            "health": "30000",
+            "health": "25000",
             "arrowDamage": "1000",
             "xbowDamage": "5000",
             "stoneDamage": "500",

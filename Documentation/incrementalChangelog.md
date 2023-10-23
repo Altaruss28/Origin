@@ -117,7 +117,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Halved the health of pikemen, European swordsmen, knights and Arabian swordsmen
 - Pikeman damage to knights and horse archers up to 200dpt
 - Increased European swordsman and Arabian swordsman speed by 1 level
-- Arabian swordsman health up to 30k, base damage up to 200dpt, base building damage up to 100, recruit cost up to 100 gold
+- Arabian swordsman base damage up to 200dpt, base building damage up to 100, recruit cost up to 100 gold
 - Iron mine cost up to 30 wood, iron per delivery up to 2
 - Fletcher cost to 10 wood, 100 gold
 - Poleturner cost to 10 wood, 50 gold
