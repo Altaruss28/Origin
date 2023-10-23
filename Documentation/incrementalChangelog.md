@@ -181,6 +181,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 
 ### Map changes:
 - Reduced the number of deer groups and iron mine spots on all maps, except the AI ones
+- Added "1v1-Kryva"
 
 ### Other changes:
 - Removed all the AIs but the inactive Rat, as this update breaks them, to be replaced in an upcoming update
