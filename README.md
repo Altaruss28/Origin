@@ -29,7 +29,8 @@ Two shortcuts will be created in the game folder -
 - "OriginMod - Updater" is used for updating the setup
 - "OriginMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
 
-You can also manually install a recommended graphics pack, go to "(Game Folder)/Origin/Graphics", open the "Copy-Paste-Recommended.zip" file, copy/drag all the ".gm1" files to "(Game Folder)/gm".
+You can also manually install a [recommended graphics pack](https://drive.google.com/file/d/1QoKFSNAwdfHI9_KEnfcEjO_UoF5Z7CSD/view?usp=drive_link).
+Simply download and open the .zip file and move all the ".gm1" files into the "gm" folder inside your game folder.
 You should get a prompt asking you whether you want to replace the files - allow that and the graphics set will be installed.
 
 You should consider installing [DDraw Compat](https://github.com/narzoul/DDrawCompat/releases/download/v0.3.1/DDrawCompat-v0.3.1.zip) for better game performance and recording.

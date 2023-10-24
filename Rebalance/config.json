@@ -2705,24 +2705,6 @@
     {"description":"Leather armor base delivery amount, code adjustment 2.","address":"0x5075","size":1,"value":106},
     {"description":"Leather armor base delivery amount, code adjustment 3.","address":"0x5077","size":14,"value":1690005651681123716917000310864},
 
-    {"description":"No food popularity modifier.","address":"0x5BB66","size":4,"value":-250},
-    {"description":"No rations popularity modifier.","address":"0x5BB78","size":4,"value":-250},
-    {"description":"Half rations popularity modifier, -1.","address":"0x5BB85","size":1,"value":-126},
-    {"description":"Extra rations popularity modifier.","address":"0x5BBA1","size":4,"value":125},
-    {"description":"Double rations popularity modifier.","address":"0x5BB97","size":4,"value":250},
-
-    {"description":"No food granary display value.","address":"0x3B90C","size":4,"value":-250},
-    {"description":"No rations granary display value.","address":"0x3B951","size":4,"value":-250},
-    {"description":"Half rations granary display value.","address":"0x3B948","size":4,"value":-125},
-    {"description":"Extra rations granary display value.","address":"0x3B937","size":1,"value":125},
-    {"description":"Double rations granary display value.","address":"0x3B92A","size":4,"value":250},
-
-    {"description":"No food popularity report display value.","address":"0x3EAC3","size":4,"value":-250},
-    {"description":"No rations popularity report display value.","address":"0x3EAFB","size":4,"value":-250},
-    {"description":"Half rations popularity report display value, -1.","address":"0x3EAF5","size":1,"value":-126},
-    {"description":"Extra rations popularity report display value, -3.","address":"0x3EAE2","size":1,"value":122},
-    {"description":"Double rations popularity report display value.","address":"0x3EAD5","size":4,"value":250},
-
     {"description":"Blessed percenatage threshold 1.","address":"0x5BD62","size":1,"value":20},
     {"description":"Blessed percenatage threshold 2.","address":"0x5BD6B","size":1,"value":40},
     {"description":"Blessed percenatage threshold 3.","address":"0x5BD77","size":1,"value":60},

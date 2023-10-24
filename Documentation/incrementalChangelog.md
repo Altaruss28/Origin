@@ -161,11 +161,11 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 #### Beer/Food changes
 - Hops farm cost up to 20 wood
 - Inn cost up to 20 wood, 20 stone, population coverage up to 50
-- Beer coverage popularity modifier stays at +1 per level, up to +4
+- Beer coverage popularity modifier stays the same
 - Wheat farm cost up to 20 wood
 - Mill cost up to 20 wood, 20 stone
-- No rations popularity modifier to -10, half rations to -5, extra rations to +5, double rations to +10
 - Meat per delivery down to 5, apples per delivery up to 5, cheese per delivery up to 5, bread per delivery up to 10
+- Popularity modifiers from rations and food variety stay the same
 
 #### Fear factor condenstation
 - All positive fear factor building cost up to 100 gold
