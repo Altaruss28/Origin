@@ -4,7 +4,7 @@ This is the official repository for the Origin Multiplayer Setup.
 
 This setup aims to fix all issues with Stronghold Crusader multiplayer, via game modifications.
 
-Origin-v1.0
+Origin-v1.1
 
 Not a finished product - the setup is still undergoing development.
 
@@ -30,7 +30,7 @@ Two shortcuts will be created in the game folder -
 - "OriginMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
 
 You can also manually install a [recommended graphics pack](https://drive.google.com/file/d/1QoKFSNAwdfHI9_KEnfcEjO_UoF5Z7CSD/view?usp=drive_link).
-Simply download and open the .zip file and move all the ".gm1" files into the "gm" folder inside your game folder.
+Simply move all the ".gm1" files into the "gm" folder inside your game folder.
 You should get a prompt asking you whether you want to replace the files - allow that and the graphics set will be installed.
 
 You should consider installing [DDraw Compat](https://github.com/narzoul/DDrawCompat/releases/download/v0.3.1/DDrawCompat-v0.3.1.zip) for better game performance and recording.
@@ -63,5 +63,4 @@ The setup includes a custom map pack, including diverse, vanilla-like yet 100% b
 The setup fixes all the glaring imbalances of the vanilla game, it also moves more in the direction of what seemed to be FireFly's original intentions.
 
 The precise rebalance changes are summarized in form of stat spreadsheets - 
-- [SHC Vanilla Stats](https://docs.google.com/spreadsheets/d/1PdMwVbIfu8c2ebszkSiqlALeZ0YWL_1nHp9TEU10r48/edit?usp=sharing)
-- [SHC Origin Stats](https://docs.google.com/spreadsheets/d/1lgrvquXtJ5Rn6s5BtKkac4F1pTmmi2t5m-gg0OBNLFY/edit?usp=sharing)
+- [SHC Vanilla/Origin Stats](https://docs.google.com/spreadsheets/d/1d87q-HgE3XSqTcaYnSKE_r03JsgBWnNfprGisYajTlA/edit?usp=sharing)

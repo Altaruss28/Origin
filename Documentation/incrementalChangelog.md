@@ -186,3 +186,54 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 ### Other changes:
 - Removed all the AIs but the inactive Rat, as this update breaks them, to be replaced in an upcoming update
 - Adjusted in-game text and voice lines to reflect some of the changes
+
+## Origin-v1.1
+
+### Rebalance changes:
+
+#### General unit rework
+- Spearman base building damage up to 50
+- Maceman base building damage up to 100
+- Pikeman health up to 100k, damage to horse archers and knights down to 100dpt, base building damage up to 50
+- European swordsman health up to 100k, base damage down to 100dpt
+- Knight health up to 100k, base damage down to 100dpt
+- Arabian archer recruit cost up to 50 gold
+- Slave health down to 5k, recruit cost down to 10 gold
+- Slinger health down to 5k, base damage down to 10dpt, recruit cost down to 10 gold
+- Assassin recruit cost down to 50 gold
+- Arabian swordsman health up to 50k, base damage down to 100dpt
+- Firethrower base damage down to 20dpt, recruit cost down to 50 gold
+- Monk base building damage up to 50, ranged damage taken halved
+- Engineer ranged damage taken halved, recruit cost up to 50 gold
+- Ladderman ranged damage taken halved, recruit cost up to 10 gold
+- Tunneler health down to 5k, base melee damage down to 10dpt, ranged damage taken doubled, recruit cost down to 10 gold
+- Woodcutter base melee damage up to 50dpt
+- Hunter, quarry worker and blacksmith base melee damage down to 10dpt
+
+#### Siege weapon range increase
+- Catapult range up to 60 tiles, direct building damage up to 50, collateral building damage down to 25, projectile speed down to 300
+- Trebuchet range up to 80 tiles, direct building damage up to 50, collateral building damage down to 25
+- Tower ballista range up to 80 tiles, projectile arch type to 0, projectile speed to 200
+- Mangonel range up to 60 tiles
+- Catapults and trebuchets now have near perfect accuracy
+- Fireballista projectile speed down to 200
+- Fixed a bug where catapults, trebuchets and mangonels could target walls at longer than intended range
+
+#### Housing rework
+- All buildings that require workers to operate now provide housing for their exact number of workers
+- Hovel health down to 200, cost down to 10 wood, population provided down to 4
+- Keep population provided down to 4
+
+#### Other
+- Blacksmith cost to 10 wood, 5 stone, 5 iron
+
+### Map changes:
+- Added "2v2-Storozhno"
+- Largely reworked "2v2-Neratov"
+- Removed one iron mine on "2v2-Volkhov"
+- Minor fixes and adjustments to "1v1-Kryva"
+
+### Other:
+- Peasant spawn rate in scenarios now matches skirmish
+- Minor localization adjustments
+- New and improved stats spreadsheet
