@@ -213,9 +213,9 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 #### Siege weapon range increase
 - Catapult range up to 60 tiles, direct building damage up to 50, collateral building damage down to 25, projectile speed down to 300
 - Trebuchet range up to 80 tiles, direct building damage up to 50, collateral building damage down to 25
+- Catapults and trebuchets now have near perfect accuracy
 - Tower ballista range up to 80 tiles, projectile arch type to 0, projectile speed to 200
 - Mangonel range up to 60 tiles
-- Catapults and trebuchets now have near perfect accuracy
 - Fireballista projectile speed down to 200
 - Fixed a bug where catapults, trebuchets and mangonels could target walls at longer than intended range
 
