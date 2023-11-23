@@ -71,10 +71,10 @@
         "Fletcher": {
             "cost": [
                 "10",
+                "10",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ]
         },
         "Blacksmith": {
@@ -90,10 +90,10 @@
         "Poleturner": {
             "cost": [
                 "10",
+                "5",
                 "0",
                 "0",
-                "0",
-                "50"
+                "0"
             ]
         },
         "Armourer": {
@@ -153,7 +153,7 @@
                 "0",
                 "0"
             ],
-            "health": "400"
+            "health": "500"
         },
         "Engineers guild": {
             "cost": [
@@ -163,7 +163,7 @@
                 "0",
                 "0"
             ],
-            "health": "200"
+            "health": "300"
         },
         "Tunnelers guild": {
             "cost": [
@@ -173,10 +173,10 @@
                 "0",
                 "0"
             ],
-            "health": "200"
+            "health": "300"
         },
         "Marketplace": {
-            "health": "1"
+            "health": "100"
         },
         "Well": {
             "cost": [
@@ -243,93 +243,93 @@
         },
         "Stables": {
             "cost": [
-                "30",
-                "30",
+                "40",
+                "40",
                 "0",
                 "0",
-                "300"
+                "0"
             ],
             "health": "1000"
         },
         "Chapel": {
             "cost": [
-                "0",
+                "10",
                 "10",
                 "0",
                 "0",
-                "100"
+                "0"
             ],
             "health": "500"
         },
         "Church": {
             "cost": [
-                "0",
+                "20",
                 "20",
                 "0",
                 "0",
-                "200"
+                "0"
             ],
             "health": "1000"
         },
         "Cathedral": {
             "cost": [
-                "0",
+                "40",
                 "40",
                 "0",
                 "0",
-                "400"
+                "0"
             ],
             "health": "2000"
         },
         "Drawbridge": {
-            "health": "200"
+            "health": "1000"
         },
         "Fire ballista": {
             "cost": [
-                "0",
+                "10",
                 "0",
                 "0",
                 "10",
-                "100"
+                "0"
             ],
             "health": "500"
         },
         "Gallows": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ]
         },
         "Stocks": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ],
             "health": "200"
         },
         "Maypole": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ],
             "health": "200"
         },
         "Garden": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ]
         },
         "Killing pit": {
@@ -343,11 +343,11 @@
         },
         "Water pot": {
             "cost": [
+                "10",
                 "0",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ]
         },
         "Tower one": {
@@ -394,21 +394,21 @@
         },
         "Catapult": {
             "cost": [
-                "0",
+                "20",
                 "20",
                 "0",
                 "0",
-                "200"
+                "0"
             ],
             "health": "500"
         },
         "Trebuchet": {
             "cost": [
-                "0",
+                "20",
                 "20",
                 "0",
                 "0",
-                "200"
+                "0"
             ],
             "health": "500"
         },
@@ -454,11 +454,11 @@
         },
         "Tower Ballista": {
             "cost": [
-                "20",
+                "40",
                 "0",
                 "0",
                 "0",
-                "200"
+                "0"
             ],
             "health": "500"
         },
@@ -467,69 +467,69 @@
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "20",
+                "0"
             ],
-            "health": "300"
+            "health": "400"
         },
         "Burning stake": {
             "cost": [
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "20",
+                "0"
             ],
             "health": "200"
         },
         "Gibbet": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ]
         },
         "Dungeon": {
             "cost": [
                 "0",
+                "20",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ],
-            "health": "300"
+            "health": "400"
         },
         "Stretching rack": {
             "cost": [
                 "0",
                 "0",
+                "10",
                 "0",
-                "0",
-                "200"
+                "0"
             ],
             "health": "200"
         },
         "Chopping block": {
             "cost": [
                 "0",
+                "20",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ],
             "health": "200"
         },
         "Dunking stool": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "200"
+                "0"
             ],
-            "health": "300"
+            "health": "400"
         },
         "Dog cage": {
             "cost": [
@@ -544,30 +544,30 @@
         "Statue": {
             "cost": [
                 "0",
+                "20",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ]
         },
         "Shrine": {
             "cost": [
                 "0",
+                "20",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ]
         },
         "Dancing bear": {
             "cost": [
+                "40",
                 "0",
                 "0",
                 "0",
-                "0",
-                "100"
+                "0"
             ],
-            "health": "300"
+            "health": "400"
         },
         "European Outpost": {
             "health": "1000"
@@ -2373,27 +2373,27 @@
     {"description":"European archer melee damage to towers and gates offset.","address":"0x15B5DB","size":1,"value":0},
     {"description":"European archer recruit cost.","address":"0x6B92A4","size":4,"value":10},
 
-    {"description":"Spearman melee damage to buildings.","address":"0x15E7F1","size":1,"value":50},
-    {"description":"Spearman melee damage to towers and gates offset.","address":"0x15E7EE","size":1,"value":207},
+    {"description":"Spearman melee damage to buildings.","address":"0x15E7F1","size":1,"value":20},
+    {"description":"Spearman melee damage to towers and gates offset.","address":"0x15E7EE","size":1,"value":237},
     {"description":"Spearman melee damage to walls.","address":"0x15E7C4","size":4,"value":2},
     {"description":"Spearman recruit cost.","address":"0x6B92AC","size":4,"value":10},
 
-    {"description":"Maceman melee damage to buildings.","address":"0x1612D7","size":1,"value":100},
-    {"description":"Maceman melee damage to towers and gates offset.","address":"0x1612D4","size":1,"value":157},
+    {"description":"Maceman melee damage to buildings.","address":"0x1612D7","size":1,"value":50},
+    {"description":"Maceman melee damage to towers and gates offset.","address":"0x1612D4","size":1,"value":207},
     {"description":"Maceman melee damage to walls.","address":"0x1612A0","size":4,"value":2},
 
-    {"description":"Pikeman melee damage to buildings.","address":"0x15FCC5","size":1,"value":50},
-    {"description":"Pikeman melee damage to towers and gates offset.","address":"0x15FCC2","size":1,"value":207},
+    {"description":"Pikeman melee damage to buildings.","address":"0x15FCC5","size":1,"value":20},
+    {"description":"Pikeman melee damage to towers and gates offset.","address":"0x15FCC2","size":1,"value":237},
     {"description":"Pikeman melee damage to walls.","address":"0x15fC85","size":4,"value":2},
     {"description":"Pikeman recruit cost.","address":"0x6B92B0","size":4,"value":30},
 
-    {"description":"European swordsman melee damage to buildings.","address":"0x16250E","size":1,"value":100},
-    {"description":"European swordsman melee damage to towers and gates offset.","address":"0x16250B","size":1,"value":157},
+    {"description":"European swordsman melee damage to buildings.","address":"0x16250E","size":1,"value":50},
+    {"description":"European swordsman melee damage to towers and gates offset.","address":"0x16250B","size":1,"value":207},
     {"description":"European swordsman melee damage to walls.","address":"0x1624CE","size":4,"value":2},
     {"description":"European swordsman speed.","address":"0x74E79C","size":4,"value":3},
 
-    {"description":"Knight melee damage to buildings.","address":"0x1633FD","size":1,"value":100},
-    {"description":"Knight melee damage to towers and gates offset.","address":"0x1633FA","size":1,"value":157},
+    {"description":"Knight melee damage to buildings.","address":"0x1633FD","size":1,"value":50},
+    {"description":"Knight melee damage to towers and gates offset.","address":"0x1633FA","size":1,"value":207},
     {"description":"Knight melee damage to walls.","address":"0x1633BD","size":4,"value":2},
     {"description":"Knight recruit cost.","address":"0x6B92BC","size":4,"value":50},
 
@@ -2422,8 +2422,8 @@
     {"description":"Horse archer recruit cost.","address":"0x12F095","size":1,"value":26},
     {"description":"Horse archer display recruit cost.","address":"0x6B92DC","size":4,"value":100},
 
-    {"description":"Arabian swordsman melee damage to buildings.","address":"0x176550","size":1,"value":100},
-    {"description":"Arabian swordsman melee damage to towers and gates offset.","address":"0x17654D","size":1,"value":157},
+    {"description":"Arabian swordsman melee damage to buildings.","address":"0x176550","size":1,"value":50},
+    {"description":"Arabian swordsman melee damage to towers and gates offset.","address":"0x17654D","size":1,"value":207},
     {"description":"Arabian swordsman melee damage to walls.","address":"0x176510","size":4,"value":2},
     {"description":"Arabian swordsman speed.","address":"0x74E85C","size":4,"value":2},
     {"description":"Arabian swordsman recruit cost.","address":"0x12F09F","size":1,"value":25},
@@ -2435,8 +2435,8 @@
     {"description":"Firethrower recruit cost.","address":"0x12F0AD","size":1,"value":230},
     {"description":"Firethrower display recruit cost.","address":"0x6B92E4","size":4,"value":50},
 
-    {"description":"Monk melee damage to buildings.","address":"0x167FB9","size":1,"value":50},
-    {"description":"Monk melee damage to towers and gates offset.","address":"0x167FB6","size":1,"value":207},
+    {"description":"Monk melee damage to buildings.","address":"0x167FB9","size":1,"value":20},
+    {"description":"Monk melee damage to towers and gates offset.","address":"0x167FB6","size":1,"value":237},
     {"description":"Monk melee damage to walls.","address":"0x167F7C","size":4,"value":2},
 
     {"description":"Engineer recruit cost.","address":"0x459E","size":4,"value":50},
@@ -2450,8 +2450,8 @@
     {"description":"Engineer/Tunneler display recruit cost, code adjustment 2.","address":"0x48DD","size":6,"value":205632112228483},
     {"description":"Engineer/Tunneler display recruit cost, code adjustment 3.","address":"0x48E7","size":6,"value":205632112359555},
     {"description":"Engineer/Tunneler display recruit cost, code adjustment 4.","address":"0x48F1","size":8,"value":4247640672434307},
-    {"description":"Tunneler melee damage to buildings.","address":"0x14F73D","size":1,"value":100},
-    {"description":"Tunneler melee damage to towers and gates offset.","address":"0x14F73A","size":1,"value":166},
+    {"description":"Tunneler melee damage to buildings.","address":"0x14F73D","size":1,"value":50},
+    {"description":"Tunneler melee damage to towers and gates offset.","address":"0x14F73A","size":1,"value":216},
     {"description":"Tunneler melee damage to walls.","address":"0x14F6FF","size":4,"value":20},
 
     {"description":"Ladderman recruit cost.","address":"0x12F059","size":1,"value":237},
@@ -2488,20 +2488,22 @@
     {"description":"Ballista and fireballista damage to catapults.","address":"0x132313","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to trebuchets.","address":"0x132320","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to siege towers.","address":"0x132344","size":4,"value":15000},
-    {"description":"Ballista and fireballista damage to rams.","address":"0x13232D","size":4,"value":15000},
+    {"description":"Ballista and fireballista damage to battering rams.","address":"0x13232D","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to shields.","address":"0x1322DF","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to fireballistas.","address":"0x1322F9","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to mangonels.","address":"0x132306","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to tower ballistas.","address":"0x1322EC","size":4,"value":15000},
     {"description":"Ballista and fireballista damage to everything else, compared to siege tower, substracted from int32 max.","address":"0x13233E","size":4,"value":15000},
 
-    {"description":"Mangonel damage to the lord.","address":"0x132226","size":4,"value":10000},
-    {"description":"Mangonel damage to catapults.","address":"0x132276","size":4,"value":10000},
-    {"description":"Mangonel damage to trebuchets.","address":"0x132286","size":4,"value":10000},
-    {"description":"Mangonel damage to shields.","address":"0x132236","size":4,"value":10000},
-    {"description":"Mangonel damage to fireballistas.","address":"0x132256","size":4,"value":10000},
-    {"description":"Mangonel damage to mangonels.","address":"0x132266","size":4,"value":10000},
-    {"description":"Mangonel damage to tower ballistas.","address":"0x132246","size":4,"value":10000},
+    {"description":"Mangonel damage to the lord.","address":"0x132226","size":4,"value":20000},
+    {"description":"Mangonel damage to catapults.","address":"0x132276","size":4,"value":20000},
+    {"description":"Mangonel damage to trebuchets.","address":"0x132286","size":4,"value":20000},
+    {"description":"Mangonel damage to siege towers.","address":"0x1322B0","size":4,"value":20000},
+    {"description":"Mangonel damage to battering rams.","address":"0x132296","size":4,"value":20000},
+    {"description":"Mangonel damage to shields.","address":"0x132236","size":4,"value":20000},
+    {"description":"Mangonel damage to fireballistas.","address":"0x132256","size":4,"value":20000},
+    {"description":"Mangonel damage to mangonels.","address":"0x132266","size":4,"value":20000},
+    {"description":"Mangonel damage to tower ballistas.","address":"0x132246","size":4,"value":20000},
 
     {"description":"Archer base range.","address":"0x1B635C","size":4,"value":40},
     {"description":"Crossbowman base range.","address":"0x1B6374","size":4,"value":40},
@@ -2579,9 +2581,10 @@
     {"description":"Jester visiting assassins toggle.","address":"0x755AB4","size":1,"value":1},
     {"description":"Priest speed.","address":"0x74E7B4","size":4,"value":1},
 
+    {"description":"Fire damage.","address":"0x1328DE","size":4,"value":200},
+    {"description":"Fire damage, code adjustment 1.","address":"0x1328DD","size":1,"value":184},
+    {"description":"Fire damage, code adjustment 2.","address":"0x1328E2","size":1,"value":144},
     {"description":"Killing pit damage.","address":"0x198E4","size":4,"value":-10000},
-    {"description":"Fear factor population coverage, base = 2^N.","address":"0xB430","size":1,"value":6},
-    {"description":"Count path to positive fear factor twice for resting.","address":"0x00149f67","size":1,"value":2},
     {"description":"Population covered by a working inn * 100.","address":"0x59077","size":4,"value":5000},
 
     {"description":"Population per woodcutter's hut.","address":"0x1BA444","size":4,"value":1},
@@ -2661,6 +2664,19 @@
     {"description":"Blessing popularity modifier, popularity report display value 2.","address":"0x3EE6B","size":4,"value":50},
     {"description":"Blessing popularity modifier, popularity report display value 3, minus 4th.","address":"0x3EE7E","size":1,"value":-25},
     {"description":"Blessing popularity modifier, popularity report display value 4.","address":"0x3EE81","size":1,"value":100},
+
+    {"description":"Fear factor population coverage, base = 2^N.","address":"0xB430","size":1,"value":14},
+    {"description":"Fear factor productivity at level -5.","address":"0x590FF","size":4,"value":150},
+    {"description":"Fear factor productivity at level -4.","address":"0x5910C","size":4,"value":140},
+    {"description":"Fear factor productivity at level -3.","address":"0x59119","size":4,"value":130},
+    {"description":"Fear factor productivity at level -2.","address":"0x59126","size":4,"value":120},
+    {"description":"Fear factor productivity at level -1.","address":"0x59133","size":4,"value":110},
+    {"description":"Fear factor productivity at level 0.","address":"0x5913F","size":4,"value":100},
+    {"description":"Fear factor productivity at level +1.","address":"0x5914C","size":4,"value":100},
+    {"description":"Fear factor productivity at level +2.","address":"0x59159","size":4,"value":100},
+    {"description":"Fear factor productivity at level +3.","address":"0x59166","size":4,"value":100},
+    {"description":"Fear factor productivity at level +4, plus level +5.","address":"0x59179","size":1,"value":200},
+    {"description":"Fear factor productivity at level +5.","address":"0x5917C","size":1,"value":100},
 
     {"description":"Scenario population spawn rate below 100 population, at 0 popularity.","address":"0x6B8FA8","size":4,"value":-10},
     {"description":"SCR-PSR-B100-5.","address":"0x6B8FAC","size":4,"value":-9},

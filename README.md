@@ -4,7 +4,7 @@ This is the official repository for the Origin Multiplayer Setup.
 
 This setup aims to fix all issues with Stronghold Crusader multiplayer, via game modifications.
 
-Origin-v1.1
+Origin-v1.2
 
 Not a finished product - the setup is still undergoing development.
 

@@ -237,3 +237,66 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Peasant spawn rate in scenarios now matches skirmish
 - Minor localization adjustments
 - New and improved stats spreadsheet
+
+## Origin-v1.2
+
+### Rebalance changes:
+
+#### Lower melee damage to buildings
+- Spearman damage to regular buildings down to 20
+- Maceman damage to regular buildings down to 50
+- Pikeman damage to regular buildings down to 20
+- European swordsman damage to regular buildings down to 50
+- Knight damage to regular buildings down to 50
+- Arabian swordsman damage to regular buildings down to 50
+- Monk damage to regular buildings down to 20
+- Tunneler damage to regular buildings down to 50
+
+#### Replacing gold costs with resources
+- Catapult cost to 20 wood, 20 stone
+- Trebuchet cost to 20 wood, 20 stone
+- Fireballista cost to 10 wood, 10 pitch
+- Tower ballista cost to 40 wood
+- Stables cost to 40 wood, 40 stone
+- Chapel cost to 10 wood, 10 stone
+- Church cost to 20 wood, 20 stone
+- Cathedral cost to 40 wood, 40 stone
+- Water pot cost to 10 wood
+- Fletcher cost to 10 wood, 10 stone
+- Poleturner cost to 10 wood, 5 stone
+
+#### Building health increase
+- Engineer's guild health up to 300
+- Tunneler's guild health up to 300
+- Marketplace health up to 100
+- Apothecary health up to 500
+
+#### Fear factor rework
+- Positive fear factor no longer decreases economical productivity, negative fear factor still increases it by 10% per level, up to 150% productivity
+- Popularity modifier stays at +1/-1 per level
+- Combat bonus stays at +5%/-5% per level
+- Only 1 building per level is now required to cover any population size
+- Gallows cost to 40 wood
+- Cesspit cost to 20 pitch, health up to 400
+- Stocks cost to 40 wood
+- Burning stake cost to 20 pitch
+- Dungeon cost to 20 stone, health up to 400
+- Stretching rack cost to 10 iron
+- Gibbet cost to 40 wood
+- Chopping block cost to 20 stone
+- Dunking stool cost to 40 wood, health up to 400
+- Maypole cost to 40 wood
+- Dancing bear cost to 40 wood, health up to 400
+- All 3 gardens' cost to 40 wood
+- Statue cost to 20 stone
+- Shrine cost to 20 stone
+
+#### Other
+- Fire damage from all sources has been doubled
+- Mangonel damage to all siege engines and the lord up to 20k
+
+### Map changes:
+- Added "2v2-Izumrudnoye"
+
+### Other:
+- Added a Snake AI
