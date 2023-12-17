@@ -49,6 +49,9 @@
             ],
             "health": "200"
         },
+        "Mercenary post": {
+            "health": "400"
+        },
         "Barracks": {
             "cost": [
                 "0",
@@ -109,18 +112,30 @@
         "Tanner": {
             "cost": [
                 "10",
-                "10",
+                "5",
                 "0",
-                "0",
+                "5",
                 "0"
             ],
             "health": "400"
         },
         "Bakery": {
-            "health": "200"
+            "cost": [
+                "10",
+                "5",
+                "0",
+                "0",
+                "0"
+            ]
         },
         "Brewery": {
-            "health": "200"
+            "cost": [
+                "10",
+                "5",
+                "0",
+                "0",
+                "0"
+            ]
         },
         "Granary": {
             "cost": [
@@ -129,8 +144,7 @@
                 "0",
                 "0",
                 "0"
-            ],
-            "health": "200"
+            ]
         },
         "Quarry": {
             "health": "500"
@@ -138,7 +152,7 @@
         "Inn": {
             "cost": [
                 "20",
-                "20",
+                "10",
                 "0",
                 "0",
                 "0"
@@ -234,7 +248,7 @@
         "Mill": {
             "cost": [
                 "20",
-                "20",
+                "10",
                 "0",
                 "0",
                 "0"
@@ -334,11 +348,11 @@
         },
         "Killing pit": {
             "cost": [
+                "5",
                 "0",
                 "0",
                 "0",
-                "0",
-                "10"
+                "0"
             ]
         },
         "Water pot": {
@@ -2581,11 +2595,55 @@
     {"description":"Jester visiting assassins toggle.","address":"0x755AB4","size":1,"value":1},
     {"description":"Priest speed.","address":"0x74E7B4","size":4,"value":1},
 
+    {"description":"High crenel height.","address":"0x1034E0","size":1,"value":105},
+    {"description":"Low crenel height.","address":"0x1034CE","size":1,"value":75},
+    {"description":"Pitch ditch cost modifier.","address":"0x1C14B","size":2,"value":0},
+    {"description":"Killing pit damage.","address":"0x198E4","size":4,"value":-50000},
+    {"description":"Population covered by a working inn * 100.","address":"0x59077","size":4,"value":5000},
     {"description":"Fire damage.","address":"0x1328DE","size":4,"value":200},
     {"description":"Fire damage, code adjustment 1.","address":"0x1328DD","size":1,"value":184},
     {"description":"Fire damage, code adjustment 2.","address":"0x1328E2","size":1,"value":144},
-    {"description":"Killing pit damage.","address":"0x198E4","size":4,"value":-10000},
-    {"description":"Population covered by a working inn * 100.","address":"0x59077","size":4,"value":5000},
+
+    {"description":"160x160 map build range.","address":"0xFBFD2","size":4,"value":160},
+    {"description":"200x200 map build range.","address":"0xFBFD8","size":4,"value":200},
+    {"description":"300x300 map build range.","address":"0xFBFDE","size":4,"value":300},
+    {"description":"400x400 map build range.","address":"0xFBFE4","size":4,"value":400},
+
+    {"description":"Building denial range around units 1.","address":"0x1028AC","size":4,"value":51},
+    {"description":"Building denial range around units 2.","address":"0x102D72","size":4,"value":51},
+    {"description":"Building denial range around units 3.","address":"0x103DD2","size":4,"value":51},
+    {"description":"Building denial range around units 4.","address":"0x108EBF","size":4,"value":51},
+    {"description":"Building denial range around units 5.","address":"0x112CF1","size":4,"value":51},
+    {"description":"Building denial range around units, offset dependant.","address":"0x10401E","size":1,"value":51},
+    {"description":"Building denial range around units, offset for non-1-player gamemodes.","address":"0x104021","size":1,"value":0},
+    {"description":"Building denial range around units for storage buildings in non-1-player gamemodes.","address":"0x103D30","size":1,"value":11},
+    {"description":"Building denial range around units for siege tents.","address":"0x103FD1","size":1,"value":11},
+    {"description":"Building denial range around units, unknown special case.","address":"0xF988B","size":1,"value":51},
+
+    {"description":"Tower/gate repair denial range around units 1.","address":"0x663B3","size":1,"value":51},
+    {"description":"Tower/gate repair denial range around units 2.","address":"0x6658E","size":1,"value":51},
+    {"description":"Tower/gate repair denial range around units, offset for non-1-player gamemodes 1.","address":"0x663B0","size":1,"value":0},
+    {"description":"Tower/gate repair denial range around units, offset for non-1-player gamemodes 2.","address":"0x6658B","size":1,"value":0},
+
+    {"description":"Delete tool denial range around units 1.","address":"0x38A8E","size":1,"value":51},
+    {"description":"Delete tool denial range around units 2.","address":"0x104E93","size":1,"value":51},
+    {"description":"Delete tool denial range around units, offset for non-1-player gamemodes 1.","address":"0x38A8B","size":1,"value":0},
+    {"description":"Delete tool denial range around units, offset for non-1-player gamemodes 2.","address":"0x104E8B","size":1,"value":0},
+
+    {"description":"Building denial range around buildings 1.","address":"0x1028B4","size":4,"value":0},
+    {"description":"Building denial range around buildings 2.","address":"0x102D7A","size":4,"value":0},
+    {"description":"Building denial range around buildings 3.","address":"0x103DDA","size":4,"value":0},
+    {"description":"Building denial range around buildings 4.","address":"0x108EC7","size":4,"value":0},
+    {"description":"Building denial range around buildings 5.","address":"0x112CF8","size":4,"value":0},
+    {"description":"Building denial range around buildings, scenario editor 1.","address":"0x103054","size":1,"value":0},
+    {"description":"Building denial range around buildings, scenario editor 2.","address":"0x103F54","size":1,"value":0},
+
+    {"description":"Building denial range around units and buildings in 1-player gamemodes 1.","address":"0x1028BB","size":4,"value":51},
+    {"description":"Building denial range around units and buildings in 1-player gamemodes 2.","address":"0x102D81","size":4,"value":51},
+    {"description":"Building denial range around units and buildings in 1-player gamemodes 3.","address":"0x103DE1","size":4,"value":51},
+    {"description":"Building denial range around units and buildings in 1-player gamemodes 4.","address":"0x108ECE","size":4,"value":51},
+    {"description":"Building denial range around units in 1-player gamemodes.","address":"0x112D01","size":4,"value":51},
+    {"description":"Building denial range around buildings in 1-player gamemodes.","address":"0x112D08","size":4,"value":51},
 
     {"description":"Population per woodcutter's hut.","address":"0x1BA444","size":4,"value":1},
     {"description":"Population per quarry.","address":"0x1BA488","size":4,"value":3},

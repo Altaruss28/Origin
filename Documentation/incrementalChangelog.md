@@ -30,7 +30,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 ### Map changes:
 - Added "2v2-Wacht des Wassermanns"
 
-### Other:
+### Other changes:
 - Remade the Snake AI
 - Added Pig and Wolf AIs
 
@@ -42,7 +42,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 ### Map changes:
 - Updated "1v1-Chernozhice" - A fix to a farmspot
 
-### Other:
+### Other changes:
 - Removed links to Bootstrap rebalance v1.10.2 and v1.10.5 stats spreadsheets from the ReadMe
 
 ## AST-v1.4
@@ -54,7 +54,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 ### Map changes:
 - Added "1v1-Kopidlno"
 
-### Other:
+### Other changes:
 - Small adjustments to the AIs
 - Added a new improved monk graphic
 - Added a separate graphics pack for copy-paste installation
@@ -68,7 +68,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 - Added "vsAI-Tilos"
 - Added "vsAI-Wall of Iron"
 
-### Other:
+### Other changes:
 - Added a Sultan and an Abbot AI (Neither of which utilize the beer sell bug)
 - Added a fixed monk graphic
 - Fixed copy-paste graphics pack directory in the ReadMe
@@ -84,7 +84,7 @@ Initial remake of the Bootstrap setup (v1.10.3, June 2023)
 ### Map changes:
 - Updated "1v1-Tabor" - Fewer safe trees for the lowground player and more for the highground player
 
-### Other:
+### Other changes:
 - Added a new horse archer graphic and a new beach graphic
 - Remade this incremental changelog in Markdown
 
@@ -233,7 +233,7 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 - Removed one iron mine on "2v2-Volkhov"
 - Minor fixes and adjustments to "1v1-Kryva"
 
-### Other:
+### Other changes:
 - Peasant spawn rate in scenarios now matches skirmish
 - Minor localization adjustments
 - New and improved stats spreadsheet
@@ -298,5 +298,37 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 ### Map changes:
 - Added "2v2-Izumrudnoye"
 
-### Other:
+### Other changes:
 - Added a Snake AI
+
+## Origin-v1.3
+
+### Rebalance changes:
+
+#### Buildings
+- High crenel height up to 105, low crenel height up to 75
+- Mercenary post health up to 400
+- Pitch ditch cost up to 1 pitch per tile
+- Killing pit damage up to 50k, cost to 5 wood
+- Tanner cost to 10 wood, 5 stone, 5 pitch
+- Granary health up to 300
+- Bakery health up to 300, cost up to 10 wood, 5 stone
+- Brewery health up to 300, cost up to 10 wood, 5 stone
+- Mill cost down to 20 wood, 10 stone
+- Inn cost down to 20 wood, 10 stone
+
+#### Build range rework
+- Build range for castle buildings is no longer limited by the distance from the keep
+- Building, repairing and deleting denial ranges around enemy units have been increased to 50 tiles
+- Building denial range around enemy units for storage buildings and siege tents has been increased to 10 tiles
+- Building denial range around enemy buildings has been decreased to 1 tile
+
+### Map changes:
+- Added "1v1-Lyshche"
+- Added "2v2-Khutory"
+- Minor fix to "2v2-Izumrudnoye"
+- Removed "2v2-Wacht des Wassermanns"
+- Removed all AI maps
+
+### Other changes:
+- Slightly adjusted the Snake AI
