@@ -332,3 +332,19 @@ The setup has been renamed from 'AST' (Alternative-Setup-Testing) to 'Origin'
 
 ### Other changes:
 - Slightly adjusted the Snake AI
+
+## Origin-v1.4
+
+### Rebalance changes:
+
+#### Melee unit rework
+- Spearman melee damage to knights and horse archers up to 200dpt
+- Pikeman melee damage to knights and horse archers up to 200dpt
+- European swordsman base melee damage up to 200dpt, melee damage to regular buildings up to 100, movement speed down to level 4
+- Knight base melee damage up to 200dpt, melee damage to regular buildings up to 100
+- Arabian swordsman base melee damage up to 200dpt, melee damage to regular buildings up to 100, movement speed down to level 3
+- The lord's health up to 200k
+
+#### Economy adjustments
+- Popularity modifiers of all food ration settings have been halved, now being -4, -2, 0, +2, +4
+- Positive fear factor now has a productivity penalty of 5% per level (Actual productivity will vary, refer to gameplay experience rather than the numbers)
