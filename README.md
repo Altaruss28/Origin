@@ -29,7 +29,7 @@ Two shortcuts will be created in the game folder -
 - "OriginMod - Updater" is used for updating the setup
 - "OriginMod - CustomGraphicConfigurator" is used for enabling custom graphics which come with the setup
 
-You can also manually install a [recommended graphics pack](https://drive.google.com/file/d/1QoKFSNAwdfHI9_KEnfcEjO_UoF5Z7CSD/view?usp=drive_link).
+You can also manually install a [recommended graphics pack](https://drive.google.com/file/d/1f6gETtZSEHc0zsw0GnZCNJBrAszlxUEg/view?usp=sharing).
 Simply move all the ".gm1" files into the "gm" folder inside your game folder.
 You should get a prompt asking you whether you want to replace the files - allow that and the graphics set will be installed.
 
